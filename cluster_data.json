@@ -1,0 +1,1252 @@
+[
+    {
+        "id": "tt0111161",
+        "name": "The Shawshank Redemption",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0068646",
+        "name": "The Godfather",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0468569",
+        "name": "The Dark Knight",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0071562",
+        "name": "The Godfather Part II",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0050083",
+        "name": "12 Angry Men",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0108052",
+        "name": "Schindler's List",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0167260",
+        "name": "The Lord of the Rings: The Return of the King",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0110912",
+        "name": "Pulp Fiction",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0120737",
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0060196",
+        "name": "Il buono, il brutto, il cattivo",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0109830",
+        "name": "Forrest Gump",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0137523",
+        "name": "Fight Club",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1375666",
+        "name": "Inception",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0167261",
+        "name": "The Lord of the Rings: The Two Towers",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0080684",
+        "name": "The Empire Strikes Back",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0133093",
+        "name": "The Matrix",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0099685",
+        "name": "Goodfellas",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0073486",
+        "name": "One Flew Over the Cuckoo's Nest",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0114369",
+        "name": "Se7en",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0047478",
+        "name": "Shichinin no samurai",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0038650",
+        "name": "It's a Wonderful Life",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0102926",
+        "name": "The Silence of the Lambs",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0317248",
+        "name": "Cidade de Deus",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0120815",
+        "name": "Saving Private Ryan",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0118799",
+        "name": "La vita \u00e8 bella",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0120689",
+        "name": "The Green Mile",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0816692",
+        "name": "Interstellar",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0076759",
+        "name": "Star Wars",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0103064",
+        "name": "Terminator 2: Judgment Day",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0088763",
+        "name": "Back to the Future",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0245429",
+        "name": "Sen to Chihiro no kamikakushi",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0054215",
+        "name": "Psycho",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0253474",
+        "name": "The Pianist",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0110413",
+        "name": "L\u00e9on",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt6751668",
+        "name": "Gisaengchung",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0110357",
+        "name": "The Lion King",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0172495",
+        "name": "Gladiator",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0120586",
+        "name": "American History X",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0114814",
+        "name": "The Usual Suspects",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0407887",
+        "name": "The Departed",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0482571",
+        "name": "The Prestige",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0034583",
+        "name": "Casablanca",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt1745960",
+        "name": "Top Gun: Maverick",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt2582802",
+        "name": "Whiplash",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1675434",
+        "name": "The Intouchables",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0027977",
+        "name": "Modern Times",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0056058",
+        "name": "Seppuku",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0064116",
+        "name": "Once Upon a Time in the West",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0095327",
+        "name": "Hotaru no haka",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0047396",
+        "name": "Rear Window",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0078748",
+        "name": "Alien",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0021749",
+        "name": "City Lights",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0095765",
+        "name": "Nuovo Cinema Paradiso",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0209144",
+        "name": "Memento",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0078788",
+        "name": "Apocalypse Now",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0082971",
+        "name": "Raiders of the Lost Ark",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt1853728",
+        "name": "Django Unchained",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0910970",
+        "name": "WALL\u00b7E",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0405094",
+        "name": "The Lives of Others",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0043014",
+        "name": "Sunset Blvd.",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0050825",
+        "name": "Paths of Glory",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0081505",
+        "name": "The Shining",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0032553",
+        "name": "The Great Dictator",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0051201",
+        "name": "Witness for the Prosecution",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt4154756",
+        "name": "Avengers: Infinity War",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0090605",
+        "name": "Aliens",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0169547",
+        "name": "American Beauty",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0057012",
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt4633694",
+        "name": "Spider-Man: Into the Spider-Verse",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1345836",
+        "name": "The Dark Knight Rises",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0364569",
+        "name": "Oldeuboi",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt7286456",
+        "name": "Joker",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0086879",
+        "name": "Amadeus",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0112573",
+        "name": "Braveheart",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0114709",
+        "name": "Toy Story",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt2380307",
+        "name": "Coco",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0082096",
+        "name": "Das Boot",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0361748",
+        "name": "Inglourious Basterds",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0119698",
+        "name": "Mononoke-hime",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt4154796",
+        "name": "Avengers: Endgame",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0087843",
+        "name": "Once Upon a Time in America",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0119217",
+        "name": "Good Will Hunting",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0180093",
+        "name": "Requiem for a Dream",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0435761",
+        "name": "Toy Story 3",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt5311514",
+        "name": "Kimi no na wa.",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0045152",
+        "name": "Singin' in the Rain",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt1187043",
+        "name": "3 Idiots",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0086190",
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0062622",
+        "name": "2001: A Space Odyssey",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0338013",
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0105236",
+        "name": "Reservoir Dogs",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0057565",
+        "name": "Tengoku to jigoku",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt8267604",
+        "name": "Capharna\u00fcm",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0033467",
+        "name": "Citizen Kane",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0056172",
+        "name": "Lawrence of Arabia",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt2106476",
+        "name": "Jagten",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0053125",
+        "name": "North by Northwest",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0022100",
+        "name": "M - Eine Stadt sucht einen M\u00f6rder",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0052357",
+        "name": "Vertigo",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0211915",
+        "name": "Le fabuleux destin d'Am\u00e9lie Poulain",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0066921",
+        "name": "A Clockwork Orange",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0091251",
+        "name": "Idi i smotri",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0093058",
+        "name": "Full Metal Jacket",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0036775",
+        "name": "Double Indemnity",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0053604",
+        "name": "The Apartment",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0086250",
+        "name": "Scarface",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0044741",
+        "name": "Ikiru",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0070735",
+        "name": "The Sting",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0056592",
+        "name": "To Kill a Mockingbird",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0075314",
+        "name": "Taxi Driver",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0119488",
+        "name": "L.A. Confidential",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1049413",
+        "name": "Up",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0113277",
+        "name": "Heat",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt8503618",
+        "name": "Hamilton",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0017136",
+        "name": "Metropolis",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt1832382",
+        "name": "Jodaeiye Nader az Simin",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0208092",
+        "name": "Snatch",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0095016",
+        "name": "Die Hard",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1255953",
+        "name": "Incendies",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0097576",
+        "name": "Indiana Jones and the Last Crusade",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0040522",
+        "name": "Ladri di biciclette",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt8579674",
+        "name": "1917",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt10872600",
+        "name": "Spider-Man: No Way Home",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0986264",
+        "name": "Taare Zameen Par",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0363163",
+        "name": "Der Untergang",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0059578",
+        "name": "Per qualche dollaro in pi\u00f9",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0372784",
+        "name": "Batman Begins",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt5074352",
+        "name": "Dangal",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0012349",
+        "name": "The Kid",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0053291",
+        "name": "Some Like It Hot",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt10272386",
+        "name": "The Father",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0042192",
+        "name": "All About Eve",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt6966692",
+        "name": "Green Book",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0993846",
+        "name": "The Wolf of Wall Street",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt6710474",
+        "name": "Everything Everywhere All at Once",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0055031",
+        "name": "Judgment at Nuremberg",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0105695",
+        "name": "Unforgiven",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0112641",
+        "name": "Casino",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0089881",
+        "name": "Ran",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0457430",
+        "name": "Pan's Labyrinth",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0469494",
+        "name": "There Will Be Blood",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0167404",
+        "name": "The Sixth Sense",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0268978",
+        "name": "A Beautiful Mind",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0071853",
+        "name": "Monty Python and the Holy Grail",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0120382",
+        "name": "The Truman Show",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0055630",
+        "name": "Y\u00f4jinb\u00f4",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0040897",
+        "name": "The Treasure of the Sierra Madre",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0042876",
+        "name": "Rash\u00f4mon",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt1130884",
+        "name": "Shutter Island",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0057115",
+        "name": "The Great Escape",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0107290",
+        "name": "Jurassic Park",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0266697",
+        "name": "Kill Bill: Vol. 1",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0477348",
+        "name": "No Country for Old Men",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0266543",
+        "name": "Finding Nemo",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0080678",
+        "name": "The Elephant Man",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0081398",
+        "name": "Raging Bull",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0071315",
+        "name": "Chinatown",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0031381",
+        "name": "Gone with the Wind",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0434409",
+        "name": "V for Vendetta",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0084787",
+        "name": "The Thing",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt2096673",
+        "name": "Inside Out",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0120735",
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0046912",
+        "name": "Dial M for Murder",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt1305806",
+        "name": "El secreto de sus ojos",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0050212",
+        "name": "The Bridge on the River Kwai",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0347149",
+        "name": "Hauru no ugoku shiro",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt5027774",
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0117951",
+        "name": "Trainspotting",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1205489",
+        "name": "Gran Torino",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt1291584",
+        "name": "Warrior",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0116282",
+        "name": "Fargo",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0096283",
+        "name": "Tonari no Totoro",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt1392214",
+        "name": "Prisoners",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0405159",
+        "name": "Million Dollar Baby",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0015864",
+        "name": "The Gold Rush",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0083658",
+        "name": "Blade Runner",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0264464",
+        "name": "Catch Me If You Can",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0047296",
+        "name": "On the Waterfront",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0041959",
+        "name": "The Third Man",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0118849",
+        "name": "Bacheha-Ye aseman",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0052618",
+        "name": "Ben-Hur",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt2024544",
+        "name": "12 Years a Slave",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0017925",
+        "name": "The General",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0050986",
+        "name": "Smultronst\u00e4llet",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt2267998",
+        "name": "Gone Girl",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0112471",
+        "name": "Before Sunrise",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1201607",
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0077416",
+        "name": "The Deer Hunter",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0107207",
+        "name": "In the Name of the Father",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt2278388",
+        "name": "The Grand Budapest Hotel",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0031679",
+        "name": "Mr. Smith Goes to Washington",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0046268",
+        "name": "Le salaire de la peur",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0072684",
+        "name": "Barry Lyndon",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0015324",
+        "name": "Sherlock Jr.",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0353969",
+        "name": "Salinui chueok",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt3170832",
+        "name": "Room",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt4729430",
+        "name": "Klaus",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt2119532",
+        "name": "Hacksaw Ridge",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0050976",
+        "name": "Det sjunde inseglet",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt3011894",
+        "name": "Relatos salvajes",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0118715",
+        "name": "The Big Lebowski",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1392190",
+        "name": "Mad Max: Fury Road",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0892769",
+        "name": "How to Train Your Dragon",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0978762",
+        "name": "Mary and Max.",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0198781",
+        "name": "Monsters, Inc.",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0073195",
+        "name": "Jaws",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0019254",
+        "name": "La passion de Jeanne d'Arc",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0395169",
+        "name": "Hotel Rwanda",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0097165",
+        "name": "Dead Poets Society",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0046438",
+        "name": "T\u00f4ky\u00f4 monogatari",
+        "cluster_assignment": 3
+    },
+    {
+        "id": "tt0048473",
+        "name": "Pather Panchali",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0075148",
+        "name": "Rocky",
+        "cluster_assignment": 4
+    },
+    {
+        "id": "tt0091763",
+        "name": "Platoon",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1950186",
+        "name": "Ford v Ferrari",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0092005",
+        "name": "Stand by Me",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0088247",
+        "name": "The Terminator",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1895587",
+        "name": "Spotlight",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt1979320",
+        "name": "Rush",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0758758",
+        "name": "Into the Wild",
+        "cluster_assignment": 0
+    },
+    {
+        "id": "tt0074958",
+        "name": "Network",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0032138",
+        "name": "The Wizard of Oz",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt3315342",
+        "name": "Logan",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0107048",
+        "name": "Groundhog Day",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0382932",
+        "name": "Ratatouille",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0381681",
+        "name": "Before Sunset",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0070047",
+        "name": "The Exorcist",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0036868",
+        "name": "The Best Years of Our Lives",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0317705",
+        "name": "The Incredibles",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0035446",
+        "name": "To Be or Not to Be",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0032551",
+        "name": "The Grapes of Wrath",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0032976",
+        "name": "Rebecca",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0058946",
+        "name": "La battaglia di Algeri",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt1028532",
+        "name": "Hachi: A Dog's Tale",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0061512",
+        "name": "Cool Hand Luke",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0245712",
+        "name": "Amores perros",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0325980",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0113247",
+        "name": "La haine",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0053198",
+        "name": "Les quatre cents coups",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0060827",
+        "name": "Persona",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0079470",
+        "name": "Life of Brian",
+        "cluster_assignment": 2
+    },
+    {
+        "id": "tt0476735",
+        "name": "Babam ve Oglum",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0071411",
+        "name": "Dersu Uzala",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0025316",
+        "name": "It Happened One Night",
+        "cluster_assignment": 6
+    },
+    {
+        "id": "tt0059742",
+        "name": "The Sound of Music",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt4016934",
+        "name": "Ah-ga-ssi",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt15097216",
+        "name": "Jai Bhim",
+        "cluster_assignment": 7
+    },
+    {
+        "id": "tt0103639",
+        "name": "Aladdin",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt0083987",
+        "name": "Gandhi",
+        "cluster_assignment": 1
+    },
+    {
+        "id": "tt1454029",
+        "name": "The Help",
+        "cluster_assignment": 5
+    },
+    {
+        "id": "tt0101414",
+        "name": "Beauty and the Beast",
+        "cluster_assignment": 7
+    }
+]

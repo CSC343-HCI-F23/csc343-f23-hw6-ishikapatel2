@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Graph Visualization Tool</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,6 +13,14 @@
             text-align: center; /* Center aligns all inline or inline-block content of the body */
             background-color: #f7f7f7; /* Background color for better visibility */
         }
+        .row {
+            display: flex;
+        }
+
+        /* .column {
+            flex: 5%;
+        } */
+
 
         .title-container {
             width: 100%;
@@ -29,20 +38,156 @@
             width: 100%;
             height: 80vh; /* 80% of the viewport height */
             border-top: 1px solid #eee; /* A light border at the top */
+            border: 1px solid black;
+        }
+
+        .link-highlight{
+            stroke: red;
+            opacity: 1.0;
+            stroke-width: 4;
+        }
+
+        .node-highlight{
+            stroke-width: 3;
+        }
+
+        .link-unfocused{
+            opacity: 0.3;
+            stroke: grey;
+        }
+
+        .node-unfocused{
+            opacity: 0.3;
+            fill: grey;
+        }
+
+        .node-focused{
+            opacity: 1.0;
+            stroke-width: 3;
+        }
+
+        .edge-highlight {
+            stroke: rgb(230, 24, 182) !important;   /* Or any other color you prefer */
+            stroke-width: 4px;       /* Adjust to your preference */
+        }
+
+        .highlighted {
+            fill: #FFD700; /* Gold color for highlighting */
+        }
+
+        .movie-info-popup {
+            display: none;
+            position: absolute;
+        }
+
+        .graph-fade {
+            opacity: 0.3;
+        }
+
+        .path-highlight-node {
+            fill: black;   /* For nodes */
+        }
+
+        .path-highlight-edge {
+            stroke: orange;   /* For nodes */
+            stroke-width: 4px;
+            opacity: 0.9;
+
+        }
+
+        .hidden {
+            opacity: 0;
+        }
+
+        .selected {
+            fill: #00c3ef; 
         }
 
     </style>
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="graphview.js"></script>
 </head>
 <body>
     <div class="title-container"><h2>IMDB Movies Graph</h2></div> 
-    <div id="graphviz"></div>
-    <button id="computeStats">Compute statistics</button>
-    <div id="stats">
-        <p>Average Node Degree: <span id="avgDegree"></span></p>
-        <p>Number of Connected Components: <span id="numComponents"></span></p>
-        <p>Graph Density: <span id="graphDensity"></span></p>
+    <div class="row">
+        <div class="column" style="flex: 15%;">
+            <div class="d-flex">
+                <input id="search-input" class="form-control me-1" type="search" placeholder="Search" aria-label="Search">
+                <button id="search-button" class="btn btn-primary" type="submit">
+                    <i class="bi bi-search"></i>
+                </button>
+              </div>            
+            <div id="text-info">
+                <img id="img_link" src="" alt="Movie Image" />
+                <h2 id="name"></h2>
+                <p>ID: <span id="id"></span></p>
+                <p>Rank: <span id="rank"></span></p>
+                <p>Year of Release: <span id="year"></span></p>
+                <p>IMBD Rating: <span id="imdb_rating"></span></p>
+                <p>Total Duration: <span id="duration"></span></p>
+                <p>Genre(s): <span id="genre"></span></p>
+                <p>Director(s): <span id="director_name"></span></p>
+                <p>De Niro #: <span id="deniro"></span></p>
+                <p>Cluster #: <span id="cluster"></span></p>
+
+                
+            </div>
+            <button id="computeStats">Compute statistics</button>
+            <div id="stats">
+                <p>Average Node Degree: <span id="avgDegree"></span></p>
+                <p>Number of Connected Components: <span id="numComponents"></span></p>
+                <p>Graph Density: <span id="graphDensity"></span></p>
+                <p>Graph Diameter: <span id="diameter"></span></p>
+                <p>APL: <span id="apl"></span></p>
+            </div>
+            <div>
+                <label>Choose a label type:</label>
+                <select id="labelType">
+                    <option value="id">Movie ID</option>
+                    <option value="name">Movie Name</option>
+                    <option value="genre">Genre/s</option>
+                    <option value="director_name">Director Name/s</option>
+                </select>
+            </div>
+            <button id="showText">Show Labels</button>
+            <button id="largestComp">Extract largest component</button>
+            <button id="switchLayout">Switch layout</button> <br> <br>
+            <button id="saveGraph">Save Changes</button>
+            <button id="subset">View Subset</button>
+            
+        </div>
+        <div class="column" id="graphviz">
+            <svg class="col-10" id="svgGraph" style="width: 100%; height: 100%; margin-left: auto; margin: 0; padding: 0;"></svg>
+        </div>
+        <div id="editNodeModal" style="display:none;">
+            <form id="editNodeForm">
+                <label>Name:  </label>
+                <input type="text" id="editNodeName" name="nodeName" placeholder="Name"> <br>
+
+                <label>ID:  </label>
+                <input type="text" id="editNodeId" name="nodeId" placeholder="ID"> <br>
+
+                <label>Rank:  </label>
+                <input type="text" id="editNodeRank" name="nodeRank" placeholder="Rank"> <br>
+
+                <label>Genre/s:</label>
+                <input type="text" id="editNodeGenre" name="nodeGenre" placeholder="Genres"> <br>
+
+                <label>Cast Name/s:</label>
+                <input type="text" id="editNodeCast" name="nodeCast" placeholder="Cast Names"> <br>
+
+                <label>Director Name/s:</label>
+                <input type="text" id="editNodeDirector" name="nodeDirector" placeholder="Directors"> <br>
+
+                <label>Writer Name/s:</label>
+                <input type="text" id="editNodeWriter" name="nodeWriter" placeholder="Writers"> <br><br>
+
+                <input type="button" value="Submit" id="editNodeSubmit">
+                <input type="button" value="Cancel" id="editNodeCancel">
+            </form>
+        </div>
     </div>
+
     <script type="module" src="index.js"></script>
 </body>
 </html>
